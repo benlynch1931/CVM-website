@@ -41,7 +41,7 @@ body {
   width: 80vw;
   height: 25vw;
   left: 50vw;
-  /* top: 7vh; */
+  top: 7vh;
   transform: translate(-40vw, 0);
 
   position: relative;
