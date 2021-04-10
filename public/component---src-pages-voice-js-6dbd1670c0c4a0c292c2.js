@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{Debo:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var a=t("q1tI"),c=t.n(a);t("ONpy");function o(){return c.a.createElement("div",{className:"page"},c.a.createElement("h1",{style:{color:"#000000"}},"BOO"))}},ONpy:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-voice-js-6dbd1670c0c4a0c292c2.js.map
