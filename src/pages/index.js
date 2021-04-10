@@ -22,9 +22,9 @@ export default function Index() {
 
 
 
-      {/*<div className="main">
+      <div className="main">
         <Slideshow />
-      </div>*/}
+      </div>
 
       <Footer />
 
