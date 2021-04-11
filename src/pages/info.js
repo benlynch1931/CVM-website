@@ -27,7 +27,7 @@ export default function Index() {
         <div className='info-brass groups'>
           <h2>Brass</h2>
           <div className='info'>
-            <p>Led by Anne Higgs</p>
+            <p className='director'>Led by Anne Higgs</p>
             <p>
               Venue:
                     Corrick Centre,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ export default function Index() {
         <div className='info-voice groups'>
           <h2>Choir</h2>
           <div className='info'>
-            <p>Led by Kate Lynch</p>
+            <p className='director'>Led by Kate Lynch</p>
             <p>
               Venue:
                     Drama Room,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ export default function Index() {
         <div className='info-strings groups'>
           <h2>Strings</h2>
           <div className='info'>
-            <p>Led by Jo Lewis</p>
+            <p className='director'>Led by Jo Lewis</p>
             <p>
               Venue:
                     Psychology Rooms,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,7 @@ export default function Index() {
         <div className='info-percussion groups'>
           <h2>Percussion</h2>
           <div className='info'>
-            <p>Led by Giles Hicks</p>
+            <p className='director'>Led by Giles Hicks</p>
             <p>
               Venue:
                     Corrick Centre,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
