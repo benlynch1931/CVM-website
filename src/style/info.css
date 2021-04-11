@@ -1,8 +1,7 @@
 .main-info {
   width: 80vw;
-  left: 50vw;
-  top: 7vh;
-  transform: translate(-40vw, 0);
+  left: 10vw;
+  margin-top: 7vh;
 
   position: relative;
   z-index: 4;
