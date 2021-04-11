@@ -1,0 +1,21 @@
+.main-info {
+  width: 80vw;
+  height: 25vw;
+  left: 50vw;
+  top: 7vh;
+  transform: translate(-40vw, 0);
+
+  position: relative;
+  z-index: 4;
+
+  border: 1px solid #000000;
+}
+
+.groups {
+  width: 100%;
+}
+
+.info {
+  width: 90%;
+  margin-left: 10%;
+}
