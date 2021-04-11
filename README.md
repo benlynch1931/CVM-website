@@ -7,6 +7,7 @@
 
 - 'about' on index (formed in ...)
 - footer info
+- head title and icon
 
 
 
