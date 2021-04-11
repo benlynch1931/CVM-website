@@ -7,6 +7,7 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Ubuntu';
 }
 
 .index {
@@ -46,5 +47,4 @@ body {
 
   position: relative;
   z-index: 4;
-
 }
