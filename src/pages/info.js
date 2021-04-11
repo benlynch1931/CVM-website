@@ -67,7 +67,7 @@ export default function Index() {
         <div className='info-strings groups'>
           <h2>Strings</h2>
           <div className='info'>
-            <p>Led by **** Lewis</p>
+            <p>Led by Jo Lewis</p>
             <p>
               Venue:
                     Psychology Rooms,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,7 +84,23 @@ export default function Index() {
 
         <br />
 
-        <div className='info-percussion groups'></div>
+        <div className='info-percussion groups'>
+          <h2>Perussion</h2>
+          <div className='info'>
+            <p>Led by Giles Hicks</p>
+            <p>
+              Venue:
+                    Corrick Centre,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Kings of Wessex Academy,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Station Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    BS27 3AQ.
+            </p>
+            <p>
+              Time: During Term-time, Every *****, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+            </p>
+          </div>
+        </div>
 
       </div>
 
