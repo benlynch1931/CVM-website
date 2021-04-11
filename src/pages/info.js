@@ -38,6 +38,9 @@ export default function Index() {
                     Cheddar<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     BS27 3PG.
             </p>
+            <p>
+              Time: During Term-time, Every Tuesday, 4-5:45pm (see <Link to='/groups'>groups</Link> for specific time slots)
+            </p>
           </div>
         </div>
 
