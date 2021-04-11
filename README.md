@@ -6,6 +6,7 @@
 ## To Do:
 
 - 'about' on index (formed in ...)
+- footer info
 
 
 
