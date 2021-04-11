@@ -28,7 +28,7 @@ export default function Navbar() {
     return (
       <div className='navbar'>
         <Button onClick={toggle} style={{ backgroundColor: '#008015', borderWidth: 0 }}><span className='navbar-toggler-icon'></span></Button>
-        <Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh' }}>
+        <Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh', zIndex: 10 }}>
           <Card className='Card'>
             <CardBody className='CardBody'>
               <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_info' to='/info '>Info</Link>
@@ -55,9 +55,9 @@ export default function Navbar() {
   } else {
     return (
       <div className="navbar">
-        <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/info" style={{ textDecoration: 'none', color: 'inherit' }} ><h2>About</h2></Link></div>
+        <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/info" style={{ textDecoration: 'none', color: 'inherit' }} ><h2>Info</h2></Link></div>
         <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/groups" style={{ textDecoration: 'none', color: 'inherit' }}><h2>Groups</h2></Link></div>
-        <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/info" style={{ textDecoration: 'none', color: 'inherit' }}><h2>Photos</h2></Link></div>
+        <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/photos" style={{ textDecoration: 'none', color: 'inherit' }}><h2>Photos</h2></Link></div>
         <div className='inline'><Link className='nav-link' activeStyle={{ color: '#FFFFFF' }} activeClassName='active-link' to="/contact" style={{ textDecoration: 'none', color: 'inherit' }}><h2>Contact Us</h2></Link></div>
       </div>
     )
