@@ -1,6 +1,7 @@
 .footer-div {
   width: 100vw;
   height: 100px;
+  position: relative;
   bottom: 0;
   background-color: #C9C9C9;
   margin-top: 7vh;
