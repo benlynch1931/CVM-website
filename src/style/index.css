@@ -10,10 +10,11 @@ body {
   font-family: 'Ubuntu';
 
   box-sizing: border-box;
+  background-color: #404040;
 }
 
 .index {
-  height: 100vh;
+  background-color: #FFFFFF;
 }
 
 .logo {
