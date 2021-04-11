@@ -85,7 +85,7 @@ export default function Index() {
         <br />
 
         <div className='info-percussion groups'>
-          <h2>Perussion</h2>
+          <h2>Percussion</h2>
           <div className='info'>
             <p>Led by Giles Hicks</p>
             <p>
