@@ -1,3 +1,24 @@
+## To Find:
+
+- First name strings leader
+- Strings times
+
+## To Do:
+
+- 'about' on index (formed in ...)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
