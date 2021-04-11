@@ -24,7 +24,25 @@ export default function Index() {
 
       <div className="main-info">
 
-        <div className='info-brass groups'></div>
+        <div className='info-brass groups'>
+          <h2>Brass</h2>
+          <div className='info'>
+            <p>Led by Anne Higgs</p>
+            <p>
+              Venue:
+                    Corrick Centre,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Kings of Wessex Academy,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Station Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    BS27 3AQ.
+            </p>
+            <p>
+              Time: During Term-time, Every Wednesday, 4-6:30pm (see <Link to='/groups'>groups</Link> for specific time slots)
+            </p>
+          </div>
+        </div>
+
+        <br />
 
         <div className='info-voice groups'>
           <h2>Choir</h2>
@@ -32,10 +50,10 @@ export default function Index() {
             <p>Led by Kate Lynch</p>
             <p>
               Venue:
-                    Drama Room,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Fairlands Middle School,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Mason's Way,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Cheddar<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Drama Room,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Fairlands Middle School,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Mason's Way,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     BS27 3PG.
             </p>
             <p>
@@ -44,7 +62,27 @@ export default function Index() {
           </div>
         </div>
 
-        <div className='info-strings groups'></div>
+        <br />
+
+        <div className='info-strings groups'>
+          <h2>Strings</h2>
+          <div className='info'>
+            <p>Led by **** Lewis</p>
+            <p>
+              Venue:
+                    Psychology Rooms,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Kings of Wessex Academy,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Station Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    BS27 3AQ.
+            </p>
+            <p>
+              Time: During Term-time, Every Wednesay, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+            </p>
+          </div>
+        </div>
+
+        <br />
 
         <div className='info-percussion groups'></div>
 
