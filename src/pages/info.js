@@ -39,7 +39,7 @@ export default function Index() {
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time, Every Wednesday, 4-6:30pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              Time: During Term-time. Every Wednesday, 4-6:30pm (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -59,7 +59,7 @@ export default function Index() {
                     BS27 3PG.
             </p>
             <p>
-              Time: During Term-time, Every Tuesday, 4-5:45pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              Time: During Term-time. Every Monday, 6:00-6:45pm. Every Tuesday, 4-5:45pm  (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function Index() {
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time, Every Wednesay, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              Time: During Term-time. Every Wednesay, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@ export default function Index() {
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time, Every *****, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              Time: During Term-time. Every *****, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
