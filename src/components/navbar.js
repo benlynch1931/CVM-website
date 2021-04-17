@@ -36,7 +36,7 @@ export default function Navbar() {
           </Card>
           <Card className='Card'>
             <CardBody className='CardBody'>
-              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_groups' to='/groups'>Groups</Link>
+              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_groups' to='/phone/groups'>Groups</Link>
             </CardBody>
           </Card>
           <Card className='Card'>
