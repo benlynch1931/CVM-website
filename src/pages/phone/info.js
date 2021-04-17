@@ -31,7 +31,7 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Anne Higgs</strong></p>
             <p>
-              Venue:<br />
+              <span><i>Venue:</i></span><br />
                     Corrick Centre,<br />
                     Kings of Wessex Academy,<br />
                     Station Road,<br />
@@ -39,7 +39,10 @@ export default function Index() {
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time. Every Wednesday, 4-6:30pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              <span><i>Time:</i></span><br />
+              During Term-time.<br />
+              Every Wednesday, 4-6:30pm<br />
+              (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -51,15 +54,19 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Kate Lynch</strong></p>
             <p>
-              Venue:
-                    Drama Room,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Fairlands Middle School,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Mason's Way,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <span><i>Venue:</i></span><br />
+                    Drama Room,<br />
+                    Fairlands Middle School,<br />
+                    Mason's Way,<br />
+                    Cheddar,<br />
                     BS27 3PG.
             </p>
             <p>
-              Time: During Term-time. Every Monday, 6:00-6:45pm. Every Tuesday, 4-5:45pm  (see <Link to='/groups'>groups</Link> for specific time slots)
+              <span><i>Time:</i></span><br />
+              During Term-time. <br />
+              Every Monday, 6:00-6:45pm. <br />
+              Every Tuesday, 4-5:45pm<br />
+              (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -71,15 +78,18 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Jo Lewis</strong></p>
             <p>
-              Venue:
-                    Psychology Rooms,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Kings of Wessex Academy,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Station Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <span><i>Venue:</i></span><br />
+                    Psychology Rooms,<br />
+                    Kings of Wessex Academy,<br />
+                    Station Road,<br />
+                    Cheddar,<br />
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time. Every Wednesay, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              <span><i>Time:</i></span><br />
+              During Term-time.<br />
+              Every Wednesay, *** - ***pm<br />
+              (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>
@@ -91,15 +101,18 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Giles Hicks</strong></p>
             <p>
-              Venue:
-                    Corrick Centre,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Kings of Wessex Academy,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Station Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Cheddar,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <span><i>Venue:</i></span><br />
+                    Corrick Centre,<br />
+                    Kings of Wessex Academy,<br />
+                    Station Road,<br />
+                    Cheddar,<br />
                     BS27 3AQ.
             </p>
             <p>
-              Time: During Term-time. Every *****, *** - ***pm (see <Link to='/groups'>groups</Link> for specific time slots)
+              <span><i>Time:</i></span><br />
+              During Term-time.<br />
+              Every *****, *** - ***pm<br />
+              (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
           </div>
         </div>

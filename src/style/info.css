@@ -19,10 +19,16 @@ body {
 }
 
 .info {
-  width: 90%;
+  width: 80%;
   margin-left: 10%;
 }
 
 .director {
   font-style: italic;
+}
+
+.info span {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
