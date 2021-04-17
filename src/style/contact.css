@@ -1,13 +1,12 @@
 .main-contact {
   width: 80vw;
-  height: 25vw;
-  left: 50vw;
-  top: 7vh;
-  transform: translate(-40vw, 0);
+  left: 10vw;
+  margin-top: 7vh;
+  padding: 10px;
 
   position: relative;
   z-index: 4;
   text-align: center;
 
-  border: 1px solid #000000;
+  /* border: 1px solid #000000; */
 }
