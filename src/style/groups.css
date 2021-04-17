@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+}
+
+.main-info {
+  width: 80vw;
+  left: 10vw;
+  margin-top: 7vh;
+  padding: 10px;
+
+  position: relative;
+  z-index: 4;
+
+  /* border: 1px solid #000000; */
+}
+
+.groups {
+  width: 100%;
+}
+
+.info {
+  width: 90%;
+  margin-left: 10%;
+}
+
+.director {
+  font-style: italic;
+}

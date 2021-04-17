@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import Slideshow from '../components/slideshow.js';
 import Navbar from '../components/navbar.js';
 import Footer from '../components/footer.js';
-import '../style/info.css';
+import '../style/groups.css';
 
 export default function Index() {
 
