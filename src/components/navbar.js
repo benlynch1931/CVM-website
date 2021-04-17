@@ -31,7 +31,7 @@ export default function Navbar() {
         <Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh', zIndex: 10 }}>
           <Card className='Card'>
             <CardBody className='CardBody'>
-              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_info' to='/info '>Info</Link>
+              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_info' to='/phone/info '>Info</Link>
             </CardBody>
           </Card>
           <Card className='Card'>
