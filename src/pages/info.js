@@ -23,6 +23,8 @@ export default function Index() {
 
 
       <div className="main-info">
+        <h1 style={{ textAlign: 'center' }}>Info</h1>
+        <br />
 
         <div className='info-brass groups'>
           <h2>Brass</h2>
