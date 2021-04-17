@@ -87,13 +87,15 @@ export default function Index() {
             <p>
               Time: -pm<br />
               <br />
-              Ages
+              Ages<br />
+              Contact Anne Higgs for more information.
             </p>
             <p><strong>Senior Ensemble</strong></p>
             <p>
               Time: -pm<br />
               <br />
-              Ages . Contact Anne Higgs for more information
+              Ages .<br />
+              Contact Anne Higgs for more information.
             </p>
           </div>
         </div>
@@ -108,7 +110,8 @@ export default function Index() {
             <p>
               Time: -pm<br />
               <br />
-              Ages . Contact Anne Higgs for more information
+              Ages .<br />
+              Contact Anne Higgs for more information.
             </p>
           </div>
         </div>
