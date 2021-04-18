@@ -14,6 +14,10 @@ body {
   /* border: 1px solid #000000; */
 }
 
+.main-info.phone {
+  width: 90vw;
+}
+
 .groups {
   width: 100%;
 }
@@ -25,8 +29,4 @@ body {
 
 .director {
   font-style: italic;
-}
-
-.phone-size {
-  font-size: 0.8rem;
 }
