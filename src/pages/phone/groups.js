@@ -37,6 +37,7 @@ export default function Index() {
               Grade 3 and above.<br />
               Invitation by Anne Higgs.
             </p>
+            <br />
             <p><strong>Training Band</strong></p>
             <p>
               Time: 5:45-6:30pm<br />
@@ -60,6 +61,7 @@ export default function Index() {
               Ages 12 and up<br />
               Contact Kate Lynch for further details.
             </p>
+            <br />
             <p><strong>The Lads</strong></p>
             <p>
               Time: 6:00-6:45pm<br />
@@ -67,6 +69,7 @@ export default function Index() {
               Year 7 and up<br />
               Contact Kate Lynch for further details.
             </p>
+            <br />
             <p><strong>Juniors</strong></p>
             <p>
               Time: 4:00-4:45pm<br />
@@ -90,6 +93,7 @@ export default function Index() {
               Ages<br />
               Contact Anne Higgs for more information.
             </p>
+            <br />
             <p><strong>Senior Ensemble</strong></p>
             <p>
               Time: -pm<br />
