@@ -27,8 +27,6 @@ body {
   font-style: italic;
 }
 
-.info span {
-  position: relative;
-  left: 50%;
-  transform: translate(-50%, 0);
+.phone-size {
+  font-size: 0.8rem;
 }
