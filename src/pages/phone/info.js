@@ -22,7 +22,7 @@ export default function Index() {
 
 
 
-      <div className="main-info">
+      <div className="main-info phone">
         <h1 style={{ textAlign: 'center' }}>Info</h1>
         <br />
 
@@ -30,7 +30,7 @@ export default function Index() {
           <h2>Brass</h2>
           <div className='info'>
             <p className='director'><strong>Led by Anne Higgs</strong></p>
-            <p className='phone-size'>
+            <p>
               <i><u>Venue:</u></i><br />
                     Corrick Centre,<br />
                     Kings of Wessex Academy,<br />
@@ -38,7 +38,7 @@ export default function Index() {
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p className='phone-size'>
+            <p>
               <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every Wednesday, 4-6:30pm<br />
@@ -53,7 +53,7 @@ export default function Index() {
           <h2>Choir</h2>
           <div className='info'>
             <p className='director'><strong>Led by Kate Lynch</strong></p>
-            <p className='phone-size'>
+            <p>
               <i><u>Venue:</u></i><br />
                     Drama Room,<br />
                     Fairlands Middle School,<br />
@@ -61,7 +61,7 @@ export default function Index() {
                     Cheddar,<br />
                     BS27 3PG.
             </p>
-            <p className='phone-size'>
+            <p>
               <i><u>Time:</u></i><br />
               During Term-time. <br />
               Every Monday, 6:00-6:45pm. <br />
@@ -77,7 +77,7 @@ export default function Index() {
           <h2>Strings</h2>
           <div className='info'>
             <p className='director'><strong>Led by Jo Lewis</strong></p>
-            <p className='phone-size'>
+            <p>
               <i><u>Venue:</u></i><br />
                     Psychology Rooms,<br />
                     Kings of Wessex Academy,<br />
@@ -85,7 +85,7 @@ export default function Index() {
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p className='phone-size'>
+            <p>
               <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every Wednesay, *** - ***pm<br />
@@ -100,7 +100,7 @@ export default function Index() {
           <h2>Percussion</h2>
           <div className='info'>
             <p className='director'><strong>Led by Giles Hicks</strong></p>
-            <p className='phone-size'>
+            <p>
               <i><u>Venue:</u></i><br />
                     Corrick Centre,<br />
                     Kings of Wessex Academy,<br />
@@ -108,7 +108,7 @@ export default function Index() {
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p className='phone-size'>
+            <p>
               <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every *****, *** - ***pm<br />
