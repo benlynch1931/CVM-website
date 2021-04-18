@@ -1,13 +1,13 @@
 ## To Find:
 
-- First name strings leader
 - Strings times
+- Percussion times
 
 ## To Do:
 
 - 'about' on index (formed in ...)
 - footer info
-- head title and icon
+- change height of dropdown nav toggle?
 
 
 
