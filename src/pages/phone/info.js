@@ -30,16 +30,16 @@ export default function Index() {
           <h2>Brass</h2>
           <div className='info'>
             <p className='director'><strong>Led by Anne Higgs</strong></p>
-            <p>
-              <span><i>Venue:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Venue:</u></i><br />
                     Corrick Centre,<br />
                     Kings of Wessex Academy,<br />
                     Station Road,<br />
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p>
-              <span><i>Time:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every Wednesday, 4-6:30pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
@@ -53,16 +53,16 @@ export default function Index() {
           <h2>Choir</h2>
           <div className='info'>
             <p className='director'><strong>Led by Kate Lynch</strong></p>
-            <p>
-              <span><i>Venue:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Venue:</u></i><br />
                     Drama Room,<br />
                     Fairlands Middle School,<br />
                     Mason's Way,<br />
                     Cheddar,<br />
                     BS27 3PG.
             </p>
-            <p>
-              <span><i>Time:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Time:</u></i><br />
               During Term-time. <br />
               Every Monday, 6:00-6:45pm. <br />
               Every Tuesday, 4-5:45pm<br />
@@ -77,16 +77,16 @@ export default function Index() {
           <h2>Strings</h2>
           <div className='info'>
             <p className='director'><strong>Led by Jo Lewis</strong></p>
-            <p>
-              <span><i>Venue:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Venue:</u></i><br />
                     Psychology Rooms,<br />
                     Kings of Wessex Academy,<br />
                     Station Road,<br />
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p>
-              <span><i>Time:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every Wednesay, *** - ***pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
@@ -100,16 +100,16 @@ export default function Index() {
           <h2>Percussion</h2>
           <div className='info'>
             <p className='director'><strong>Led by Giles Hicks</strong></p>
-            <p>
-              <span><i>Venue:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Venue:</u></i><br />
                     Corrick Centre,<br />
                     Kings of Wessex Academy,<br />
                     Station Road,<br />
                     Cheddar,<br />
                     BS27 3AQ.
             </p>
-            <p>
-              <span><i>Time:</i></span><br />
+            <p className='phone-size'>
+              <i><u>Time:</u></i><br />
               During Term-time.<br />
               Every *****, *** - ***pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
