@@ -45,6 +45,7 @@ export default function Index() {
         </div>
 
         <br />
+        <br />
 
         <div className='info-voice groups'>
           <h2>Choir</h2>
@@ -65,6 +66,7 @@ export default function Index() {
         </div>
 
         <br />
+        <br />
 
         <div className='info-strings groups'>
           <h2>Strings</h2>
@@ -84,6 +86,7 @@ export default function Index() {
           </div>
         </div>
 
+        <br />
         <br />
 
         <div className='info-percussion groups'>
