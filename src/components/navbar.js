@@ -27,8 +27,9 @@ export default function Navbar() {
   if (size[0] <= 710) {
     return (
       <div className='navbar'>
-        <Button onClick={toggle} style={{ backgroundColor: '#008015', borderWidth: 0 }}><span className='navbar-toggler-icon'></span></Button>
-        <Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh', zIndex: 10 }}>
+        <Button onClick={toggle} style={{ backgroundColor: '#008015', borderWidth: 0, position: 'relative' }}><span className='navbar-toggler-icon'></span></Button>
+        {/*<Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh', zIndex: 10 }}>*/}
+        <Collapse isOpen={isOpen} style={{ left: 0, width: '80vw', zIndex: 10 }}>
           <Card className='Card'>
             <CardBody className='CardBody'>
               <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_info' to='/phone/info '>Info</Link>
