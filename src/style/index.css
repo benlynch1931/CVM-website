@@ -20,10 +20,11 @@ body {
 .logo {
   position: relative;
   width: 100vw;
-  height: 10vw;
+  height: 13vw;
 
   background-color: #FFFFFF;
   z-index: 8;
+
 }
 
 .logo h1 {
@@ -34,7 +35,7 @@ body {
   transform: translateY(-50%);
   text-align: center;
 
-  font-size: 6vw;
+  font-size: 7vw;
   font-weight: 700;
   width: 100vw;
 
