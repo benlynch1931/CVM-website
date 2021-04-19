@@ -31,7 +31,7 @@ export default function Index() {
         <p>Anne Higgs: **Email@example.com**</p>
         <br />
         <p><strong>Voice</strong></p>
-        <p>Kate Lynch: **Email@example.com**</p>
+        <p>Kate Lynch: **voices@cheddarvalleymusic.co.uk**</p>
         <br />
         <p><strong>Strings</strong></p>
         <p>Anne Higgs: **Email@example.com**</p>
