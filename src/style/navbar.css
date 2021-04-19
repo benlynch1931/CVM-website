@@ -11,8 +11,10 @@
   display: flex;
   width: 80vw;
   margin-left: 10vw;
-  position: relative;
+  position: sticky;
   padding: 0;
+  top: 0;
+  z-index: 20;
 }
 
 .nav-link:hover {
