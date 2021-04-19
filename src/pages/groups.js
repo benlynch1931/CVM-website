@@ -47,6 +47,7 @@ export default function Index() {
 
         <div className='info-voice groups'>
           <h2>Choir</h2>
+          <img src={require('../assets/cvv-logo.jpg')} className='voices-logo'/>
           <div className='info'>
             <p className='director'><strong>Led by Kate Lynch</strong></p>
             <p><strong>Senior Girls</strong></p>
