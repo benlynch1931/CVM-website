@@ -42,3 +42,18 @@
   background-color: #62B548;
   color: #FFFFFF;
 }
+
+@media (max-width: 710px) {
+  .navbar {
+    max-height: 65px;
+    min-height: 40px;
+    height: 10vw;
+  }
+
+  .navbar-toggler-icon {
+    max-height: 65px;
+    min-height: 28px;
+    height: calc(10vw - 16px);
+    border: 1px solid #FFFFFF;
+  }
+}
