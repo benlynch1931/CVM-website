@@ -43,11 +43,11 @@ body {
 }
 
 .main {
-  width: 80vw;
-  height: 25vw;
+  width: 75vw;
+  height: 20vw;
   left: 50vw;
   margin-top: 7vh;
-  transform: translate(-40vw, 0);
+  transform: translate(-37.5vw, 0);
 
   position: relative;
   z-index: 4;
