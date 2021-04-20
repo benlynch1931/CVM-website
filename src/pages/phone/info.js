@@ -39,7 +39,7 @@ export default function Index() {
             </p>
             <p>
               <i><u>Time:</u></i><br />
-              During Term-time.<br />
+              Term-time.<br />
               Every Wednesday, 4-6:30pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
@@ -62,7 +62,7 @@ export default function Index() {
             </p>
             <p>
               <i><u>Time:</u></i><br />
-              During Term-time. <br />
+              Term-time. <br />
               Every Monday, 6:00-6:45pm. <br />
               Every Tuesday, 4-5:45pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
@@ -86,7 +86,7 @@ export default function Index() {
             </p>
             <p>
               <i><u>Time:</u></i><br />
-              During Term-time.<br />
+              Term-time.<br />
               Every Wednesay, *** - ***pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
@@ -109,7 +109,7 @@ export default function Index() {
             </p>
             <p>
               <i><u>Time:</u></i><br />
-              During Term-time.<br />
+              Term-time.<br />
               Every *****, *** - ***pm<br />
               (see <Link to='/groups'>groups</Link> for specific time slots)
             </p>
