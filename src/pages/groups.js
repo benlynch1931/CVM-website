@@ -110,7 +110,7 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Giles Hicks</strong></p>
             <p><strong>Percussion</strong></p>
-            <div className='info--each'>
+            <div className='info-percussion-each'>
               <span>Day: Thursday.&nbsp;</span>
               <span className='time'>Time: -pm.&nbsp;</span>
               <span>Ages .&nbsp;</span>
