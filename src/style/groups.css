@@ -31,6 +31,7 @@ body {
   position: relative;
 }
 
+
 .voices-logo {
   width: 30vw;
   height: auto;
@@ -38,4 +39,31 @@ body {
   right: 5vw;
   top: 50%;
   transform: translate(0, -50%);
+}
+
+.info-brass-each, .info-voice-each, .info-strings-each, .info-percussion-each {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1126px) {
+  .info-voice img {
+    display: none;
+  }
+}
+
+@media (max-width: 710px) {
+  span {
+    width: 100%;
+  }
+
+  .time {
+    margin-bottom: 1rem;
+  }
+}
+
+
+
+.info-brass {
+  /* border: 1px solid #000000; */
 }
