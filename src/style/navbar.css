@@ -54,6 +54,5 @@
     max-height: 65px;
     min-height: 28px;
     height: calc(10vw - 16px);
-    border: 1px solid #FFFFFF;
   }
 }
