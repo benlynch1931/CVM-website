@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from 'gatsby';
 
-import Slideshow from '../components/slideshow.js';
 import Navbar from '../components/navbar.js';
 import Footer from '../components/footer.js';
 import '../style/groups.css';
@@ -31,15 +30,20 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Anne Higgs</strong></p>
             <p><strong>Brass Band</strong></p>
-            <p>
-              Time: 4:45-5:45pm<br />
-              Grade 3 and above, invitation by Anne Higgs.
-            </p>
+            <div className='info-brass-each'>
+              <span>Day: Wednesday.&nbsp;</span>
+              <span className='time'>Time: 4:45-5:45pm.&nbsp;</span>
+              <span>Grade 3 and above.&nbsp;</span>
+              <span>Invitation by Anne Higgs.</span>
+            </div>
+            <br />
             <p><strong>Training Band</strong></p>
-            <p>
-              Time: 5:45-6:30pm<br />
-              All Grades, contact Anne Higgs for more information.
-            </p>
+            <div className='info-brass-each'>
+              <span>Day: Wednesday.&nbsp;</span>
+              <span>Time: 5:45-6:30pm.&nbsp;</span>
+              <span>All Grades.&nbsp;</span>
+              <span>Contact Anne Higgs for more information.</span>
+            </div>
           </div>
         </div>
 
@@ -47,24 +51,31 @@ export default function Index() {
 
         <div className='info-voice groups'>
           <h2>Choir</h2>
-          <img src={require('../assets/cvv-logo.jpg')} className='voices-logo'/>
           <div className='info'>
             <p className='director'><strong>Led by Kate Lynch</strong></p>
             <p><strong>Senior Girls</strong></p>
-            <p>
-              Time: 5:00-5:45pm<br />
-              Ages 12 and up. Contact Kate Lynch for further details.
-            </p>
+            <div className='info-voice-each'>
+              <span>Day: Tuesday</span>
+              <span className='time'>Time: 5:00-5:45pm.&nbsp;</span>
+              <span>Ages 12 and up.&nbsp;</span>
+              <span>Contact Kate Lynch for further details.</span>
+            </div>
+            <br />
             <p><strong>The Lads</strong></p>
-            <p>
-              Time: 6:00-6:45pm<br />
-              Year 7 and up. Contact Kate Lynch for further details.
-            </p>
+            <div className='info-voice-each'>
+              <span>Day: Monday.&nbsp;</span>
+              <span className='time'>Time: 6:00-6:45pm.&nbsp;</span>
+              <span>Year 7 and up.&nbsp;</span>
+              <span>Contact Kate Lynch for further details.</span>
+            </div>
+            <br />
             <p><strong>Juniors</strong></p>
-            <p>
-              Time: 4:00-4:45pm<br />
-              All ages. Contact Kate Lynch for further details.
-            </p>
+            <div className='info-voice-each'>
+              <span>Day: Tuesday.&nbsp;</span>
+              <span className='time'>Time: 4:00-4:45pm.&nbsp;</span>
+              <span>All ages.&nbsp;</span>
+              <span>Contact Kate Lynch for further details.</span>
+            </div>
           </div>
         </div>
 
@@ -75,15 +86,20 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Jo Lewis</strong></p>
             <p><strong>String Ensemble</strong></p>
-            <p>
-              Time: -pm<br />
-              Ages
-            </p>
+            <div className='info-strings-each'>
+              <span>Day: Wednesday.&nbsp;</span>
+              <span className='time'>Time: -pm.&nbsp;</span>
+              <span>Ages.&nbsp;</span>
+              <span>Contact Anne Higgs for more information.</span>
+            </div>
+            <br />
             <p><strong>Senior Ensemble</strong></p>
-            <p>
-              Time: -pm<br />
-              Ages . Contact Anne Higgs for more information
-            </p>
+            <div className='info-strings-each'>
+              <span>Day: Wednesday.&nbsp;</span>
+              <span className='time'>Time: -pm.&nbsp;</span>
+              <span>Ages .&nbsp;</span>
+              <span>Contact Anne Higgs for more information.</span>
+            </div>
           </div>
         </div>
 
@@ -94,10 +110,12 @@ export default function Index() {
           <div className='info'>
             <p className='director'><strong>Led by Giles Hicks</strong></p>
             <p><strong>Percussion</strong></p>
-            <p>
-              Time: -pm<br />
-              Ages . Contact Anne Higgs for more information
-            </p>
+            <div className='info--each'>
+              <span>Day: Thursday.&nbsp;</span>
+              <span className='time'>Time: -pm.&nbsp;</span>
+              <span>Ages .&nbsp;</span>
+              <span>Contact Anne Higgs for more information.</span>
+            </div>
           </div>
         </div>
 
