@@ -29,7 +29,7 @@ export default function Navbar() {
       <div className='navbar'>
         <Button onClick={toggle} style={{ backgroundColor: '#008015', borderWidth: 0, position: 'relative' }}><span className='navbar-toggler-icon'></span></Button>
         {/*<Collapse isOpen={isOpen} style={{ position: 'absolute', left: 0, width: '80vw', top: '5vh', zIndex: 10 }}>*/}
-        <Collapse isOpen={isOpen} style={{ left: 0, width: '80vw', zIndex: 10 }}>
+        <Collapse isOpen={isOpen} style={{ left: 0, width: '80vw', zIndex: 10 }} className='collapse-dropdown'>
           <Card className='Card'>
             <CardBody className='CardBody'>
               <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_info' to='/phone/info '>Info</Link>
@@ -37,7 +37,7 @@ export default function Navbar() {
           </Card>
           <Card className='Card'>
             <CardBody className='CardBody'>
-              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_groups' to='/phone/groups'>Groups</Link>
+              <Link activeClassName='active-link' className='nav-link' activeStyle={{ color: '#FFFFFF' }} id='id_navbar_groups' to='/groups'>Groups</Link>
             </CardBody>
           </Card>
           <Card className='Card'>
